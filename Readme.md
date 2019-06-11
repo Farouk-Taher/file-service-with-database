@@ -1,6 +1,6 @@
 ## Distributed file system
 
-Mainly it is upload, download, delete and update.
+Mainly it is upload, download, delete and update. <br>
 So it's doing the basic CRUD operations on files in the database.
 
 ## Steps to Setup
